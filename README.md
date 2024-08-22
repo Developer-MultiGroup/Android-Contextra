@@ -4,7 +4,7 @@
 ## <img align="right" src="https://media.giphy.com/media/LnKdiQXyu3DrhadXx6/giphy.gif" width='110' /> ⭐ Bu Repoyu Faydalı Buldunuz Mu ?
 
 
-Eğer size bir faydası dokunduğunu düşünüyorsanız bu repoyu starlayarak siz de [Stargazers](https://github.com/serkanalc/Android-Kotlin-Fundamentals/stargazers)'ların arasına katılıp bizi buna benzer kaynak paylaşımları yapmaya motive edebilirsiniz.⭐
+Eğer size bir faydası dokunduğunu düşünüyorsanız bu repoyu starlayarak siz de [Stargazers](https://github.com/Developer-MultiGroup/Android-Contextra/stargazers)'ların arasına katılıp bizi buna benzer kaynak paylaşımları yapmaya motive edebilirsiniz.⭐
 
 Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksikse veya düzeltilmesi gerekiyorsa lütfen ilgili kişilere ulaşarak bunu bildirin ve en kısa sürede düzenlememize katkıda bulunmuş olun 👍🏻
 
